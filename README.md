@@ -1,6 +1,6 @@
 # 九号出行自动签到脚本
 
-这是一个用于九号出行自动签到的 Node.js 脚本，基于 [wan-kong/ninebot-sign](https://github.com/wan-kong/ninebot-sign) 修改，新增了一些内容。
+这是一个用于九号出行自动签到的 Node.js 脚本，基于 [waistu/Ninebot][(https://github.com/waistu/Ninebot)](https://github.com/waistu/Ninebot) 修改，新增了一些内容。
 
 # 功能特点
 
