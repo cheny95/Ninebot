@@ -425,7 +425,7 @@ async function init() {
     const title = "九号出行签到结果";
     let message = allResults.map(acc => {
         const status = acc.success ? "✅" : "❌";
-        return `${status} ${acc.name}\n${acc.logs.replace(/\n/g, "\n  ")}`;
+        return `${status} ${acc.name}\n${acc.logs.replace(/\n/g, "\n")}`;
     }).join("\n\n");
 
     // 发送通知（并行发送，互不影响）
