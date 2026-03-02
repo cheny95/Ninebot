@@ -106,7 +106,7 @@ npm start
 
 ## 青龙面板
 
-1. 添加订阅  https://github.com/waistu/Ninebot.git
+1. 添加订阅  [https://github.com/waistu/Ninebot.git](https://github.com/cheny95/Ninebot.git)
 2. 安装NodeJs 依赖：axios、moment、dotenv
 3. 添加环境变量
 4. 修改任务定时
